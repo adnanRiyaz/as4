@@ -1,0 +1,33 @@
+.navbar-brand{
+    padding: 19px 56px;
+}
+.nav-item{
+    padding: 20px 30px;
+}
+#para{
+    font-size: 32px;
+    color: antiquewhite;
+}
+#headi{
+    font-size: 48px;
+    color: antiquewhite;
+    font-family: Roboto;
+
+}
+.main{
+    background-image: url("backk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+#btn{
+    background-color: white;
+    color: black;
+    padding: 7px 34px;
+    margin-top: 20px;
+    border:none;
+}
+#btn:hover{
+    background-color: rgb(236, 230, 230);
+}
